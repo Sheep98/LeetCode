@@ -1,2 +1,2 @@
 # LeetCode
-My leetcode practice code.
+My C++ solution;
